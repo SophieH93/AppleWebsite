@@ -1,0 +1,18 @@
+.leap-year-section, .watch-container, .macbook-container {
+    background-color: black;
+}
+
+.fab {
+    font-size: 1.5rem;
+    color: #D6D6D6;
+}
+
+.appleIcon {
+    font-size: 4rem;
+    color: #fff;
+}
+
+.appleIcon2 {
+    font-size: 4rem;
+    color: #000;
+}
